@@ -1,9 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I'm Enquan Chen.
 
-<!--
-**xiaolao/xiaolao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![xiaolao's Profile View](https://komarev.com/ghpvc/?username=xiaolao&color=blue)
 
-Here are, I'm Enquan Chen:
+![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaolao&layout=compact)
 
-- ⚡ Fun fact: ...
--->
+![xiaolao's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaolao&show_icons=true&theme=radical)
